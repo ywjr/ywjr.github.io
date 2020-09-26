@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[61],{51:function(n,e,t){"use strict";t.r(e);var i=t(0),a=t.n(i),c=t(307);e.default=function(){return a.a.createElement(c.a,{title:"\u53cd\u9988",description:"\u4ea7\u54c1\u53cd\u9988"})}}}]);

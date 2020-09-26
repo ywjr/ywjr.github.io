@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://ywjr.github.io/second-blog</id>
+    <title>XDoc Blog</title>
+    <updated>2015-10-25T23:29:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://ywjr.github.io/second-blog"/>
+    <subtitle>XDoc Blog</subtitle>
+    <icon>http://ywjr.github.io/img/logo.png</icon>
+    <rights> 地址：北京市丰台区西国贸园区优橙创新中心3楼3003     电话：010-63259422 
+           
+          &lt;br&gt;&lt;br&gt;
+           京ICP备16007144号-2 © 2015-2020 布谷园（北京）科技有限公司 buguyuan.cn All rights reserved.</rights>
+</feed>
